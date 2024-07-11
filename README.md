@@ -1,10 +1,10 @@
-# Materials for CoDaS-HEP 2023 Columnar Data Analysis Tutorial
+# Materials for CoDaS-HEP 2024 Columnar Data Analysis Tutorial
 
 
-This repository contains the lecture notebooks and workbook used for [columnar data analysis](https://indico.cern.ch/event/1151367/timetable/#41-columnar-data-analysis), presented at CoDaS-HEP at 13:30pm on July 20, 2023 by Jim Pivarski and Ioana Ifrim.
+<!-- This repository contains the lecture notebooks and workbook used for [columnar data analysis](https://indico.cern.ch/event/1151367/timetable/#41-columnar-data-analysis), presented at CoDaS-HEP at 13:30pm on July 20, 2023 by Jim Pivarski and Ioana Ifrim.
 
 Workbook Live WebAssymbly (Pyodide + JupyterLite) instance: https://ioanaif.github.io/columnar-data-analysis-codas-hep-2023/lab/index.html
-
+-->
 
 **Abstract:**
 
@@ -16,7 +16,7 @@ This tutorial will introduce awkward-array, the concepts of columnar data struct
 
 
 
-
+<!--
 ## How to participate 
 
 
@@ -71,3 +71,4 @@ Finally, launch JupyterLab with:
 ```
 jupyter lab
 ```
+-->
