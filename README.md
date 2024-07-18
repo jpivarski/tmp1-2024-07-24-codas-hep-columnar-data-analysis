@@ -8,7 +8,7 @@ Workbook Live WebAssymbly (Pyodide + JupyterLite) instance: https://ioanaif.gith
 
 **Abstract:**
 
-Data analysis languages like Numpy, MATLAB, R, IDL, ADL, Julia, and SAS are primarily interactive, using an array-at-a-time interface. Instead of conducting an entire analysis in a single loop, each calculation step is performed separately, allowing users to inspect distributions at each stage.
+Data analysis languages like Numpy, MATLAB, R, IDL, ADL, and Julia are primarily interactive, using an array-at-a-time interface. Instead of conducting an entire analysis in a single loop, each calculation step is performed separately, allowing users to inspect distributions at each stage.
 
 However, these languages are typically limited to primitive data types, such as numbers and booleans. Variable-length and nested data structures, like varying numbers of particles per event, don’t fit well into this model. Fortunately, this limitation can be overcome.
 
