@@ -8,12 +8,11 @@ Workbook Live WebAssymbly (Pyodide + JupyterLite) instance: https://ioanaif.gith
 
 **Abstract:**
 
-Data analysis languages, such as Numpy, MATLAB, R, IDL, and ADL, are typically interactive with an array-at-a-time interface. Instead of performing an entire analysis in a single loop, each step in the calculation is a separate pass, letting the user inspect distributions each step of the way.
+Data analysis languages like Numpy, MATLAB, R, IDL, ADL, Julia, and SAS are primarily interactive, using an array-at-a-time interface. Instead of conducting an entire analysis in a single loop, each calculation step is performed separately, allowing users to inspect distributions at each stage.
 
-Unfortunately, these languages are limited to primitive data types: mostly numbers and booleans. Variable-length and nested data structures, such as different numbers of particles per event, don't fit this model. Fortunately, the model can be extended.
+However, these languages are typically limited to primitive data types, such as numbers and booleans. Variable-length and nested data structures, like varying numbers of particles per event, don’t fit well into this model. Fortunately, this limitation can be overcome.
 
-This tutorial will introduce awkward-array, the concepts of columnar data structures, and how to use them in data analysis, such as computing combinatorics (quantities depending on combinations of particles) without any for loops.
-
+In this tutorial, we will introduce awkward-array, explore the concepts of columnar data structures, and demonstrate how to leverage them in data analysis. For example, we’ll show how to compute combinatorics (quantities depending on combinations of particles) without using any for loops.
 
 
 <!--
