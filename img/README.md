@@ -10,8 +10,7 @@ Below are all the images in the current directory, displayed as thumbnails:
 | --- | --- | --- |
 | ![090324_ALICE-hirez](./090324_ALICE-hirez.jpg) | ![8-layer_cube](./8-layer_cube.jpg) | ![Mandel](./Mandel.png) |
 | ![Mandelbrot_sequence_new](./Mandelbrot_sequence_new.gif) | ![Moore_neighborhood_with_cardinal_directions](./Moore_neighborhood_with_cardinal_directions.svg) | ![Numpy_Python_Cheat_Sheet](./Numpy_Python_Cheat_Sheet.svg) |
-| ![README](./README.md) | ![Torus_graph](./Torus_graph.png) | ![USA_Chicago_location_map](./USA_Chicago_location_map.svg) |
-| ![ak_numpy2](./ak_numpy2.svg) | ![ak_numpy3_dask](./ak_numpy3_dask.svg) | ![analytics-by-language](./analytics-by-language.svg) |
+| ![Torus_graph](./Torus_graph.png) | ![USA_Chicago_location_map](./USA_Chicago_location_map.svg) | ![analytics-by-language](./analytics-by-language.svg) |
 | ![apl-book](./apl-book.png) | ![apl-keyboard](./apl-keyboard.jpg) | ![apl-timeline](./apl-timeline.svg) |
 | ![as-the-crow-flies](./as-the-crow-flies.svg) | ![awkward-motivation-venn-diagram](./awkward-motivation-venn-diagram.svg) | ![benchmark-games-2023](./benchmark-games-2023.svg) |
 | ![cartoon-cartesian](./cartoon-cartesian.svg) | ![cartoon-combinations](./cartoon-combinations.svg) | ![columns-and-row-groups](./columns-and-row-groups.svg) |
