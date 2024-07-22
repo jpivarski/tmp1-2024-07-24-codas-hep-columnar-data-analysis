@@ -1,2 +1,14 @@
 awkward==2.6.6
 hist[plot]==2.7.3
+pyarrow==17.0.0
+pandas==2.2.2
+uproot==5.3.10
+vector==1.4.1
+pybind11==2.13.1
+numba==0.60.0
+jax==0.4.30
+jaxlib==0.4.30
+ml-dtypes==0.4.0
+opt-einsum==3.3.0
+scipy==1.14.0
+dask==2024.7.1
