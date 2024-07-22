@@ -12,3 +12,5 @@ ml-dtypes==0.4.0
 opt-einsum==3.3.0
 scipy==1.14.0
 dask==2024.7.1
+ipycytoscape==1.3.3
+graphviz==0.20.3
