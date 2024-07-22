@@ -6,6 +6,8 @@
 Workbook Live WebAssymbly (Pyodide + JupyterLite) instance: https://ioanaif.github.io/columnar-data-analysis-codas-hep-2023/lab/index.html
 -->
 
+[![Binder](https://binderhub.ssl-hep.org/badge_logo.svg)](https://binderhub.ssl-hep.org/v2/gh/ianna/2024-07-24-CoDaSHEP2024-Columnar_Data_Analysis.git/HEAD)
+
 **Abstract:**
 
 Data analysis languages like Numpy, MATLAB, R, IDL, ADL, and Julia are primarily interactive, using an array-at-a-time interface. Instead of conducting an entire analysis in a single loop, each calculation step is performed separately, allowing users to inspect distributions at each stage.
