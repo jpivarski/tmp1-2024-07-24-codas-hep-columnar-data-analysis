@@ -18,3 +18,5 @@ dask[complete]
 dask_awkward==2024.6.0
 aiohttp==3.9.5
 particle==0.24.0
+jupyterlab-deck
+
