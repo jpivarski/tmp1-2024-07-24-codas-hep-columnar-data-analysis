@@ -1,4 +1,4 @@
-# Materials for CoDaS-HEP 2024 Columnar Data Analysis Tutorial
+# CoDaS-HEP 2024 Columnar Data Analysis Tutorial
 
 [![Binder](https://binderhub.ssl-hep.org/badge_logo.svg)](https://binderhub.ssl-hep.org/v2/gh/ianna/2024-07-24-codas-hep-columnar-data-analysis.git/HEAD)
 
